@@ -1,0 +1,4 @@
+# 2023.03.07
+# Domain-set, https://github.com/xiaop1/special.txt, Proxy
+
+.msn.cn
