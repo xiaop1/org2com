@@ -4,3 +4,6 @@
 .msn.cn
 www.msn.cn
 assets.msn.cn
+.bing.com
+r.bing.com
+th.bing.com
