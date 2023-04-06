@@ -1,6 +1,0 @@
-# 2023.03.07
-# Domain-set, https://github.com/xiaop1/special.txt, Proxy
-# Domain-set, https://raw.githubusercontent.com/xiaop1/org2com/main/special.txt, Proxy
-
-.msn.cn
-.bing.com
